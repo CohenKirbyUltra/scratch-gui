@@ -5,7 +5,7 @@ updates:
     schedule:
       interval: "daily"
     allow:
-      - dependency-name: "@turbowarp/*"
+      - dependency-name: "@CohenKirbyUltra/*"
       - dependency-name: "scratch-audio"
       - dependency-name: "scratch-render"
       - dependency-name: "scratch-vm"
